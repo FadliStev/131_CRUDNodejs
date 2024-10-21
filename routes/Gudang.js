@@ -6,12 +6,15 @@ const gudang = [
     {
         letak : "Jateng",
         kapasitas :5000,
-        cabang : "Sukodono"
+        cabang : "Sukodono",
+        status : "penuh"        
     },
     {
         letak : "Kaltim",
         kapasitas :5000,
-        cabang : "IKN"
+        cabang : "IKN",
+        status : "kosong"
+
     }
 ];
 
